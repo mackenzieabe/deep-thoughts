@@ -21,5 +21,9 @@
   "homepage": "https://github.com/mackenzieabe/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^7.4.0"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "graphql": "^16.6.0"
   }
 }
